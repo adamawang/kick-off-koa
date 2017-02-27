@@ -1,0 +1,19 @@
+{
+  "name": "kickoffkoa",
+  "version": "1.0.0",
+  "description": "kick off koa",
+  "main": "program.js",
+  "dependencies": {
+    "co-body": "4.2.0",
+    "co-views": "2.1.0",
+    "ejs": "2.5.6",
+    "koa": "2.0.1",
+    "koa-session": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Wang <adamw3494@gmail.com>",
+  "license": "MIT"
+}
